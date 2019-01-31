@@ -1,0 +1,31 @@
+{
+  "name": "test-package",
+  "version": "1.0.0",
+  "description": "this is just a test",
+  "main": "weatherdest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.1",
+    "moment": "^2.24.0",
+    "node-geocoder": "^3.22.0",
+    "node-spotify-api": "^1.0.7",
+    "tv-maze": "^1.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruebush/bootcamp-projects.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ruebush/bootcamp-projects/issues"
+  },
+  "homepage": "https://github.com/ruebush/bootcamp-projects#readme"
+}
